@@ -1,4 +1,4 @@
-﻿[
+[
 {"type":"header","version":"5.0.3","comment":"Export to JSON plugin for PHPMyAdmin"},
 {"type":"database","name":"quranku"},
 {"type":"table","name":"surah_list","database":"quranku","data":
@@ -109,14 +109,14 @@
 {"id":"104","number":"104","name":"الهمزة","name_latin":"Al-Humazah","number_ayat":"9"},
 {"id":"105","number":"105","name":"الفيل","name_latin":"Al-Fil","number_ayat":"5"},
 {"id":"106","number":"106","name":"قريش","name_latin":"Quraisy","number_ayat":"4"},
-{"id":"107","number":"107","name":"الماعون","name_latin":"Al-ma'un","number_ayat":"6"},
-{"id":"108","number":"108","name":"الكوثر" ,"name_latin":"Al-Kausar","number_ayat":"2"},
+{"id":"107","number":"107","name":"الماعون","name_latin":"Al-Ma'un","number_ayat":"7"},
+{"id":"108","number":"108","name":"الكوثر","name_latin":"Al-Kausar","number_ayat":"3"},
 {"id":"109","number":"109","name":"الكٰفرون","name_latin":"Al-Kafirun","number_ayat":"6"},
-{"id":"110","number":"110","name":"النصر" ,"name_latin":"An-Nasr","number_ayat":"3"},
+{"id":"110","number":"110","name":"النصر","name_latin":"An-Nasr","number_ayat":"3"},
 {"id":"111","number":"111","name":"اللهب","name_latin":"Al-Lahab","number_ayat":"5"},
 {"id":"112","number":"112","name":"الاخلاص","name_latin":"Al-Ikhlas","number_ayat":"4"},
 {"id":"113","number":"113","name":"الفلق","name_latin":"Al-Falaq","number_ayat":"5"},
-{"id":"114","number":"114","name":"الناس","name_latin":"Al-Nas","number_ayat":"6"}
+{"id":"114","number":"114","name":"الناس","name_latin":"An-Nas","number_ayat":"6"}
 ]
 }
 ]
